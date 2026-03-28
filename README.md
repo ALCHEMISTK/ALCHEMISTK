@@ -12,53 +12,6 @@ I build full-stack products that solve real-world problems — from land managem
 
 ---
 
-### What I'm Working On
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**SHAMBA** — Land Management Marketplace
-
-A full-stack mobile app for land listings, professional services, and secure transactions. Built with React Native + TypeScript.
-
-`TypeScript` `React Native` `Mobile`
-
-</td>
-<td width="50%" valign="top">
-
-**MIROFISH** — Multi-Agent Social Simulation
-
-A local-first multi-agent social simulation engine. Flask backend + Vue 3 frontend. Fully translated to English.
-
-`Python` `Flask` `Vue 3` `AI Agents`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Chinese Teacher App** — AI Language Tutor
-
-A personal Chinese language teaching app built with Kotlin for Android.
-
-`Kotlin` `Android` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-**AI Toolkit** — AI Development Tools
-
-Python toolkit for AI experimentation and development workflows.
-
-`Python` `AI/ML`
-
-</td>
-</tr>
-</table>
-
----
-
 ### Tech I Work With
 
 <div align="center">
