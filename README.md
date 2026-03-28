@@ -37,7 +37,39 @@ I build full-stack products that ship — land management platforms, multi-agent
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" />
+  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true" />
+</picture>
+
 </div>
+
+</details>
+
+<details>
+<summary><strong>Activity</strong></summary>
+<br>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=00000000&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&hide_border=true" />
+</picture>
+
+</div>
+
+</details>
+
+<details>
+<summary><strong>Currently</strong></summary>
+<br>
+
+- Scaling **CarbonSilicon Solutions** — building products at the intersection of AI and real-world utility
+- Exploring multi-agent architectures and autonomous systems
+- Shipping mobile-first experiences with React Native + Kotlin
 
 </details>
 
