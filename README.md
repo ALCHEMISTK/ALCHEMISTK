@@ -1,143 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=ALCHEMISTK&fontSize=70&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Transmuting%20Code%20Into%20Reality&descSize=18&descColor=8B949E&descAlignY=55" width="100%" />
+### Hey, I'm ALCHEMISTK
 
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   > SYSTEM ONLINE                                            ║
- ║   > OPERATOR: ALCHEMISTK                                     ║
- ║   > ROLE: CEO & FOUNDER @ CARBONSILICON SOLUTIONS            ║
- ║   > STATUS: BUILDING THE FUTURE                              ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
-```
+**CEO & Founder @ CarbonSilicon Solutions**
 
-<br>
+I build full-stack products — from land management platforms and multi-agent simulations to AI-powered language tutors. I like turning complex problems into clean, shipped software.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Full-Stack+Engineer+%7C+AI+Architect;Land+Tech+%7C+Multi-Agent+Systems+%7C+EdTech" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&repeat=true&width=380&height=30&lines=Full-Stack+%C2%B7+AI+Systems+%C2%B7+Mobile+%C2%B7+Cloud" />
 
 </div>
 
-<br>
+---
+
+#### Tech Stack
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ◈ MISSION BRIEF ◈                        │
-└─────────────────────────────────────────────────────────────┘
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
 
 </div>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
+---
 
-<img width="60" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/58A6FF/external-artificial-intelligence-programming-of-machine-learning-artificial-regular-tal-revivo.png"/>
-
-**AI & AGENTS**
-
-Multi-agent simulation engines, AI-powered tutors, and intelligent automation systems
-
-</td>
-<td align="center" width="33%">
-
-<img width="60" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/58A6FF/external-mobile-phone-and-tablet-computer-on-a-same-network-devices-regular-tal-revivo.png"/>
-
-**FULL-STACK PRODUCTS**
-
-End-to-end platforms — from mobile apps to cloud infrastructure
-
-</td>
-<td align="center" width="33%">
-
-<img width="60" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/96/58A6FF/external-land-with-trees-and-fencing-isolated-on-a-white-background-business-regular-tal-revivo.png"/>
-
-**LAND TECH**
-
-Marketplace platforms for land management, listings & transactions
-
-</td>
-</tr>
-</table>
-</div>
-
-<br>
+#### Stats
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                   ◈ TECH ARSENAL ◈                          │
-└─────────────────────────────────────────────────────────────┘
-```
+<img src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" width="95%" />
 
 </div>
+
+---
 
 <div align="center">
 
-| CATEGORY | TECHNOLOGIES |
-|:--------:|:------------|
-| **`LANGUAGES`** | ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF) ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF) ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF) ![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=58A6FF) |
-| **`BACKEND`** | ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=58A6FF) ![Flask](https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask&logoColor=58A6FF) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF) ![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=58A6FF) |
-| **`FRONTEND`** | ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF) ![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF) ![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=58A6FF) ![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=58A6FF) |
-| **`INFRA`** | ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF) ![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=58A6FF) ![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=58A6FF) ![GitHub Actions](https://img.shields.io/badge/CI/CD-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF) |
+<sub>*Any sufficiently advanced technology is indistinguishable from magic.* — Arthur C. Clarke</sub>
 
 </div>
-
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                  ◈ SYSTEM METRICS ◈                         │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&ring_color=58A6FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=58A6FF&sideNums=58A6FF&dates=8B949E" width="48%" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" width="40%" />
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=0D1117&color=58A6FF&line=58A6FF&point=8B949E&area=true&area_color=58A6FF&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ◈ CONNECT ◈                              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/ALCHEMISTK)
-
-</div>
-
-<div align="center">
-
-```
- ╔══════════════════════════════════════════════════════════════╗
- ║  "Any sufficiently advanced technology is                    ║
- ║   indistinguishable from magic."  — Arthur C. Clarke         ║
- ╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer" width="100%" />
