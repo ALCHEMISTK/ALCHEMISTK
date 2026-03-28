@@ -26,38 +26,13 @@ I build full-stack products that ship — land management platforms, multi-agent
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true&bg_color=00000000&title_color=0969DA&text_color=1F2328" />
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALCHEMISTK&layout=compact&hide_border=true" />
-</picture>
-
-</div>
-
-</details>
-
-<details>
-<summary><strong>Activity</strong></summary>
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=00000000&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&bg_color=00000000&color=0969DA&line=0969DA&point=1F2328&area=true&area_color=0969DA&hide_border=true" />
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ALCHEMISTK&hide_border=true" />
-</picture>
+<a href="https://github.com/ALCHEMISTK">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github" />
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github_dark" />
+  </picture>
+</a>
 
 </div>
 
