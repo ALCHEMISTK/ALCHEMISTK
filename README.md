@@ -18,11 +18,11 @@ I build full-stack products that solve real-world problems — from land managem
 <tr>
 <td width="50%" valign="top">
 
-**[SHAMBA](https://github.com/ALCHEMISTK/SHAMBA)** — Land Management Marketplace
+**[SHAMBA](https://github.com/ALCHEMISTK/LandManagementApp)** — Land Management Marketplace
 
-A full-stack platform for land listings, professional services, and secure transactions with M-Pesa & Stripe payments. FastAPI + React + React Native.
+A full-stack mobile app for land listings, professional services, and secure transactions. Built with React Native + TypeScript.
 
-`Python` `React` `React Native` `PostgreSQL` `Redis` `Docker` `AWS`
+`TypeScript` `React Native` `Mobile`
 
 </td>
 <td width="50%" valign="top">
@@ -116,4 +116,3 @@ Python toolkit for AI experimentation and development workflows.
 *Building things that matter.*
 
 </div>
-
