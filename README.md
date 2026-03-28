@@ -26,25 +26,18 @@ I build full-stack products that ship — land management platforms, multi-agent
 
 <div align="center">
 
-<a href="https://github.com/ALCHEMISTK">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github" />
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALCHEMISTK&theme=github_dark" />
-  </picture>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true" />
+</picture>
 
 </div>
-
-</details>
-
-<details>
-<summary><strong>Currently</strong></summary>
-<br>
-
-- Scaling **CarbonSilicon Solutions** — building products at the intersection of AI and real-world utility
-- Exploring multi-agent architectures and autonomous systems
-- Shipping mobile-first experiences with React Native + Kotlin
 
 </details>
 
