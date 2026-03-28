@@ -18,7 +18,7 @@ I build full-stack products that solve real-world problems — from land managem
 <tr>
 <td width="50%" valign="top">
 
-**[SHAMBA](https://github.com/ALCHEMISTK/LandManagementApp)** — Land Management Marketplace
+**SHAMBA** — Land Management Marketplace
 
 A full-stack mobile app for land listings, professional services, and secure transactions. Built with React Native + TypeScript.
 
@@ -27,7 +27,7 @@ A full-stack mobile app for land listings, professional services, and secure tra
 </td>
 <td width="50%" valign="top">
 
-**[MIROFISH](https://github.com/ALCHEMISTK/MIROFISH_LOCAL_ENGLISH)** — Multi-Agent Social Simulation
+**MIROFISH** — Multi-Agent Social Simulation
 
 A local-first multi-agent social simulation engine. Flask backend + Vue 3 frontend. Fully translated to English.
 
@@ -38,7 +38,7 @@ A local-first multi-agent social simulation engine. Flask backend + Vue 3 fronte
 <tr>
 <td width="50%" valign="top">
 
-**[Chinese Teacher App](https://github.com/ALCHEMISTK/-_APP)** — AI Language Tutor
+**Chinese Teacher App** — AI Language Tutor
 
 A personal Chinese language teaching app built with Kotlin for Android.
 
@@ -47,7 +47,7 @@ A personal Chinese language teaching app built with Kotlin for Android.
 </td>
 <td width="50%" valign="top">
 
-**[AI Toolkit](https://github.com/ALCHEMISTK/ai-toolkit4)** — AI Development Tools
+**AI Toolkit** — AI Development Tools
 
 Python toolkit for AI experimentation and development workflows.
 
