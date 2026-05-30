@@ -1,46 +1,54 @@
-## ALCHEMISTK
+<div align="center">
 
-**CEO & Founder @ CarbonSilicon Solutions**
+# ⚗️ ALCHEMISTK
 
-I build full-stack products that ship — land management platforms, multi-agent simulation engines, AI-powered language tutors. I care about clean architecture and solving real problems.
+**Founder & CEO · CarbonSilicon Solutions**
 
-`python` `typescript` `kotlin` `react native` `vue` `fastapi` `flask` `postgresql` `redis` `docker` `aws`
+`carbon → silicon · ideas → products that ship`
+
+</div>
 
 ---
 
-<details>
-<summary><strong>What I build</strong></summary>
-<br>
+```python
+class Alchemist:
+    """Full-stack engineer. Founder. Builder of things that ship."""
 
-**AI & Multi-Agent Systems** — Simulation engines with autonomous agents, AI tutors for language learning
+    role     = "CEO @ CarbonSilicon Solutions"
+    obsessed = "clean architecture + real problems"
+    building = ["land platforms", "multi-agent sims", "AI language tutors"]
 
-**Land Tech** — Full-stack marketplace for land listings, professional services, and secure transactions
+    def stack(self) -> dict:
+        return {
+            "langs":      ["Python", "TypeScript", "Kotlin"],
+            "frameworks": ["FastAPI", "Flask", "Vue", "React Native"],
+            "infra":      ["PostgreSQL", "Redis", "Docker", "AWS"],
+        }
+```
 
-**Mobile** — Cross-platform apps with React Native + TypeScript, native Android with Kotlin
+---
 
-</details>
+### 🧪 Currently building
 
-<details open>
-<summary><strong>Stats</strong></summary>
-<br>
+- **Land-tech marketplace** — listings, professional services, and secure transactions, end to end
+- **Multi-agent simulation engine** — autonomous agents, deterministic cores, observable behavior
+- **AI language tutors** — adaptive, conversational, and actually useful
+
+### 🔭 Reach me
+
+[Website](#) · [Email](mailto:you@carbonsilicon.solutions) · [LinkedIn](#) · [X](#)
+
+---
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&text_color=1F2328" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ALCHEMISTK&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true&background=00000000&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ALCHEMISTK&hide_border=true" />
-</picture>
+
+<br>
+
+<sub><i>Any sufficiently advanced technology is indistinguishable from magic.</i> — Clarke</sub>
 
 </div>
-
-</details>
-
----
-
-<sub>*Any sufficiently advanced technology is indistinguishable from magic.* — Clarke</sub>
