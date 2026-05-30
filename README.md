@@ -1,10 +1,7 @@
-HELP ME MAKE THIS 100X BETTER
-
-
 ## ALCHEMISTK
 **CEO & Founder @ CarbonSilicon Solutions**
 I build full-stack products that ship — land management platforms, multi-agent simulation engines, AI-powered language tutors. I care about clean architecture and solving real problems.
-`python` `typescript` `kotlin` `react native` `vue` `fastapi` `flask` `postgresql` `redis` `docker` `aws`
+python typescript kotlin react native vue fastapi flask postgresql redis docker aws
 ---
 <details>
 <summary><strong>What I build</strong></summary>
